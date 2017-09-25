@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstGitHubApp</string>
+    <string name="strHGH">Hello Git Hub!</string>
+</resources>
